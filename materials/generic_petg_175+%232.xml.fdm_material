@@ -16,7 +16,7 @@
   </metadata>
   <properties>
     <density>1.27</density>
-    <diameter>1.8</diameter>
+    <diameter>1.7</diameter>
   </properties>
   <settings>
     <setting key="print temperature">215</setting>
