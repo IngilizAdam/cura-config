@@ -1,6 +1,6 @@
-cura.log
-cura.cfg
-cura.lock
+cura.log*
+cura.cfg*
+cura.lock*
 
 packages.json
 plugins.json
